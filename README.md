@@ -56,6 +56,8 @@ A simple Discord custom command bot built with [discord.js](https://discord.js.o
    }
    ```
 
+4. In the index.js file adjust the 24th line to your Server ID.
+
 ## Usage
 
 1. Start the bot:
