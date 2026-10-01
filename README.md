@@ -55,8 +55,12 @@ A simple Discord custom command bot built with [discord.js](https://discord.js.o
      "clientId": "YOUR-APPLICATION-ID"
    }
    ```
-
-4. In the index.js file adjust the 24th line to your Server ID.
+4. Modify `package.json` to include:
+   ```
+   "scripts": {
+   "start": "node index.js"
+   ```
+6. In the index.js file adjust the 24th line to your Server ID.
 
 ## Usage
 
